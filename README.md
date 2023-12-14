@@ -6,7 +6,7 @@ This is the starter template for the Next.js App Router Course. It contains the 
 - next.js 14, tailwind, typescript, vercel
 - exclude ch10 Partial Prerendering (Optional)
 - exclude ch15 Adding Authentication
-- you can see the result：
+- you can see the result below or [live site](https://next-js-dashboard-phi-gray.vercel.app)：
   
 
 https://github.com/rochelwang1205/next-js-dashboard/assets/128132742/bcb24e6b-5686-46d3-a797-144dab828362
