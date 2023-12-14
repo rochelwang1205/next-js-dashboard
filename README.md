@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Template
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is the starter template for the Next.js App Router Course. It contains the code for the dashboard application.
 
 ## About this repository
 - next.js 14, tailwind, typescript, vercel
